@@ -1,5 +1,13 @@
 # Changelog
 
+### [7.3.1](https://www.github.com/snakemake/snakemake/compare/v7.3.0...v7.3.1) (2022-03-23)
+
+
+### Bug Fixes
+
+* Replaced pathlib relative_to with os.relpath ([#1505](https://www.github.com/snakemake/snakemake/issues/1505)) ([dc65e29](https://www.github.com/snakemake/snakemake/commit/dc65e2921163e9b069c13f79dc0488be21452905))
+* update for minimum of Python 3.7 ([#1509](https://www.github.com/snakemake/snakemake/issues/1509)) ([62024e2](https://www.github.com/snakemake/snakemake/commit/62024e2bfd6d5735763f37a0f4bf43a16f229443))
+
 ## [7.3.0](https://www.github.com/snakemake/snakemake/compare/v7.2.1...v7.3.0) (2022-03-21)
 
 
